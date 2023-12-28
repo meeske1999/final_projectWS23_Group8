@@ -407,7 +407,7 @@ Alter,Einkommen,Preis,Geschlecht,Zeit,KundeNr,Niederlassung
 50,32462.0,65554.28,1.0,30.0,K0414,Brandenburg
 55,54760.0,86038.6,0.0,45.0,K0212,Bayern
 34,24264.0,22580.44,1.0,19.0,K0859,Berlin
-68,59014.0,87209.72,0.0,52.0,K0701,Nordrhein-Westfalen
+68,59046.5,87209.72,0.0,52.0,K0701,Nordrhein-Westfalen
 42,52370.0,74270.35,0.0,48.0,K0576,Bayern
 52,90021.0,124563.89,1.0,64.0,K0228,Thüringen
 58,80881.0,102290.11,1.0,33.0,K1019,Baden-Württemberg
@@ -965,7 +965,7 @@ Alter,Einkommen,Preis,Geschlecht,Zeit,KundeNr,Niederlassung
 70,95326.0,133593.66,1.0,66.0,K0171,Baden-Württemberg
 50,48277.0,88936.09,1.0,47.0,K0655,Nordrhein-Westfalen
 50,78249.0,114846.09,1.0,55.0,K0749,Nordrhein-Westfalen
-69,59014.0,125140.05,1.0,65.0,K1021,Bayern
+69,59046.5,125140.05,1.0,65.0,K1021,Bayern
 69,77887.0,126098.91,0.0,51.0,K1009,Hessen
 61,94363.0,137974.71,1.0,50.0,K0485,Bayern
 60,61431.0,105250.41,1.0,33.0,K0734,Bayern
